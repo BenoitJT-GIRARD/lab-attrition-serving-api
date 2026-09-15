@@ -106,6 +106,7 @@ omit = [
     # they are written: counting them here would measure someone else's tests.
     "*/figure_style.py",
     "scripts/capture.py",
+    "scripts/smoke.py",
 ]
 
 [tool.coverage.report]
